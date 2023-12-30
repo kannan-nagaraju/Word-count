@@ -7,7 +7,7 @@ PC Anaconda - Python 3.7
 
 ## ALGORITHM:
 ## Step 1:
-Decleare number of words is 0
+Declare number of words is 0
 
 ## Step 2:
 open it with txt file
