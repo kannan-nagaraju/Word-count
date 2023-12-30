@@ -25,11 +25,14 @@ count the number of words
 Giving print statement for getting output
 
 ## PROGRAM:
+```
 #Developed by:N.Kannan
 #Register No:23013389
+
 f=open("text.txt","r")
 word=f.read().split()
 print("no.of words",len(word))
+```
 
 
 ### OUTPUT:
